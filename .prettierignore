@@ -1,0 +1,11 @@
+# Ignore artifacts:
+build
+coverage
+.vuepress
+.vscode
+.idea
+dist
+node_modules
+
+# Ignore all HTML files:
+*.html
